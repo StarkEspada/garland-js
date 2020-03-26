@@ -1,0 +1,267 @@
+body{
+	margin: 0;
+}
+
+.garland{
+	width: 700px;
+	height: 900px;
+	background-image: url(../img/bdrdgotn.png);
+	background-size: 100%;
+    display: inline-block;
+}
+
+.lamp-one, .lamp-two, .lamp-tree, .lamp-for, .lamp-five, .lamp-six, .lamp-seven,
+.lamp-eight, .lamp-nine, .lamp-ten, .lamp-eleven, .lamp-twelve, .lamp-thirteen,
+.lamp-fourteen, .lamp-fivteen, .lamp-sixteen, .lamp-seventeen, .lamp-eighten,
+.lamp-nineteen, .lamp-twenty{
+    width: 70px;
+    height: 70px;
+    vertical-align: top;
+    display: inline-block;
+    border-radius: 50%;
+} 
+
+
+.lamp-one{
+    background: red;
+    margin-top: 144px;
+    margin-left: 68px;
+    box-shadow: 0px 0px 33px 46px #ff0000d9;
+    transition: all 1s;
+}
+.lamp-two{
+    background: orange;
+    margin-top: 78px;
+    margin-left: 83px;
+    box-shadow: 0px 0px 33px 46px #ffa500ed;
+    transition: all 1s;
+}
+.lamp-tree{
+    background: blue;
+    margin-top: 129px;
+    margin-left: 65px;
+    box-shadow: 0px 0px 33px 46px #0000ffe3;
+    transition: all 1s;
+}
+.lamp-for{
+    background: purple;
+    margin-top: 66px;
+    margin-left: 54px;
+    box-shadow: 0px 0px 33px 46px #800080f2;
+    transition: all 1s;
+}
+.lamp-five{
+    background: #07eb07;
+    margin-top: 95px;
+    margin-left: 65px;
+    box-shadow: 0px 0px 33px 46px #07eb07d6;
+    transition: all 1s;
+}
+.lamp-six{
+    background: #fff700;
+    margin-top: 78px;
+    margin-left: 26px;
+    box-shadow: 0px 0px 33px 46px yellow;
+    transition: all 1s;
+}
+.lamp-seven{
+    background: red;
+    margin-top: 138px;
+    margin-left: 84px;
+    box-shadow: 0px 0px 33px 46px #ff0000d9;
+    transition: all 1s;
+}
+.lamp-eight{
+    background: orange;
+    margin-top: 70px;
+    margin-left: 79px;
+    box-shadow: 0px 0px 33px 46px #ffa500ed;
+    transition: all 1s;
+}
+.lamp-nine{
+    background: blue;
+    margin-top: 122px;
+    margin-left: 67px;
+    box-shadow: 0px 0px 33px 46px #0000ffe3;
+    transition: all 1s;
+}
+.lamp-ten{
+    background: purple;
+    margin-top: 62px;
+    margin-left: 52px;
+    box-shadow: 0px 0px 33px 46px #800080f2;
+    transition: all 1s;
+}
+.lamp-eleven{
+    background: #07eb07;
+    margin-top: 130px;
+    margin-left: 68px;
+    box-shadow: 0px 0px 33px 46px #07eb07d6;
+    transition: all 1s;
+}
+.lamp-twelve{
+    background: #fff700;
+    margin-top: 64px;
+    margin-left: 80px;
+    box-shadow: 0px 0px 33px 46px yellow;
+    transition: all 1s;
+}
+.lamp-thirteen{
+    background: red;
+    margin-top: 113px;
+    margin-left: 65px;
+    box-shadow: 0px 0px 33px 46px #ff0000d9;
+    transition: all 1s;
+}
+.lamp-fourteen{
+    background: orange;
+    margin-top: 51px;
+    margin-left: 56px;
+    box-shadow: 0px 0px 33px 46px #ffa500ed;
+    transition: all 1s;
+}
+.lamp-fivteen{
+    background: blue;
+    margin-top: 82px;
+    margin-left: 64px;
+    box-shadow: 0px 0px 33px 46px #0000ffe3;
+    transition: all 1s;
+}
+.lamp-sixteen{
+    background: orange;
+    margin-top: 96px;
+    margin-left: 62px;
+    box-shadow: 0px 0px 33px 46px #ffa500ed;
+    transition: all 1s;
+}
+.lamp-seventeen{
+    background: purple;
+    margin-top: 156px;
+    margin-left: 81px;
+    box-shadow: 0px 0px 33px 46px #800080f2;
+    transition: all 1s;
+}
+.lamp-eighten{
+    background: #07eb07;
+    margin-top: 90px;
+    margin-left: 79px;
+    box-shadow: 0px 0px 33px 46px #07eb07d6;
+    transition: all 1s;
+}
+.lamp-nineteen{
+    background: #fff700;
+    margin-top: 143px;
+    margin-left: 67px;
+    box-shadow: 0px 0px 33px 46px yellow;
+    transition: all 1s;
+}
+.lamp-twenty{
+    background: red;
+    margin-top: 80px;
+    margin-left: 54px;
+    box-shadow: 0px 0px 33px 46px #ff0000d9;
+    transition: all 1s;
+}
+.button{
+    width: 126px;
+    height: 70px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 26px;
+    border-radius: 10px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-left: 665px;
+    margin-top: -200px;
+}
+
+.button-two{
+    width: 126px;
+    height: 70px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 26px;
+    border-radius: 10px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-left: 100px;
+    margin-top: -200px;
+}
+.control-menu{
+    width: 550px;
+    border: 2px solid black;
+    border-radius: 10px;
+    vertical-align: top;
+    margin-left: 30px;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+.turn-off-first-lamp, .turn-on-first-lamp
+{
+    width: 260px;
+    height: 35px;
+    text-align: center;
+    font-size: 16px;
+    vertical-align: top;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+.turn-off-first-lamp{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.turn-on-first-lamp{
+    margin-top: 10px;
+}
+
+.begin{
+    width: 130px;
+    height: 57px;
+    vertical-align: top;
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border:2px solid black;
+}
+.button-time-off-on{
+    width: 130px;
+    height: 57px;
+    vertical-align: top;
+    font-size: 20px;
+    margin-left: 160px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border:2px solid black;
+}
+
+.control-time-off-on{
+    width: 435px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.control{
+    width: 1100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 60px;
+    background: linear-gradient(77deg, #80008063 20%, #ff00007a, #07d00757, #0000ff59);
+
+}
+.input-time-off-on{
+    width: 190px;
+    height: 40px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+}

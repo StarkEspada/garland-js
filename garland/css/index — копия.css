@@ -1,0 +1,337 @@
+body{
+	margin: 0;
+}
+
+.garland{
+	width: 700px;
+	height: 900px;
+	background-image: url(../img/bdrdgotn.png);
+	background-size: 100%;
+    display: inline-block;
+}
+.lamp-one{
+    width: 70px;
+    height: 70px;
+    background: red;
+    margin-top: 144px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 68px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px red;
+    transition: all 1s;
+    border: 2px solid red;
+}
+.lamp-two{
+    width: 70px;
+    height: 70px;
+    background: orange;
+    margin-top: 78px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 75px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px orange;
+    transition: all 1s;
+    border: 2px solid orange;
+}
+.lamp-tree{
+    width: 70px;
+    height: 70px;
+    background: blue;
+    margin-top: 129px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 55px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px blue;
+    transition: all 1s;
+    border: 2px solid blue;
+}
+.lamp-for{
+    width: 70px;
+    height: 70px;
+    background: purple;
+    margin-top: 66px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 48px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px purple;
+    transition: all 1s;
+    border: 2px solid purple;
+}
+.lamp-five{
+    width: 70px;
+    height: 70px;
+    background: #07eb07;
+    margin-top: 95px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 57px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px #07eb07;
+    transition: all 1s;
+    border: 2px solid #07eb07;
+}
+.lamp-six{
+    width: 70px;
+    height: 70px;
+    background: yellow;
+    margin-top: 77px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 25px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px yellow;
+    transition: all 1s;
+    border: 2px solid yellow;
+}
+.lamp-seven{
+    width: 70px;
+    height: 70px;
+    background: red;
+    margin-top: 133px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 72px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px red;
+    transition: all 1s;
+    border: 2px solid red;
+}
+.lamp-eight{
+    width: 70px;
+    height: 70px;
+    background: orange;
+    margin-top: 70px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 74px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px orange;
+    transition: all 1s;
+    border: 2px solid orange;
+}
+.lamp-nine{
+    width: 70px;
+    height: 70px;
+    background: blue;
+    margin-top: 120px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 56px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px blue;
+    transition: all 1s;
+    border: 2px solid blue;
+}
+.lamp-ten{
+    width: 70px;
+    height: 70px;
+    background: purple;
+    margin-top: 56px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 46px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px purple;
+    transition: all 1s;
+    border: 2px solid purple;
+}
+.lamp-eleven{
+    width: 70px;
+    height: 70px;
+    background: #07eb07;
+    margin-top: 128px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 65px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px #07eb07;
+    transition: all 1s;
+    border: 2px solid #07eb07;
+}
+.lamp-twelve{
+     width: 70px;
+    height: 70px;
+    background: yellow;
+    margin-top: 62px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 76px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px yellow;
+    transition: all 1s;
+    border: 2px solid yellow;
+}
+.lamp-thirteen{
+    width: 70px;
+    height: 70px;
+    background: red;
+    margin-top: 113px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 56px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px red;
+    transition: all 1s;
+    border: 2px solid red;
+}
+.lamp-fourteen{
+    width: 70px;
+    height: 70px;
+    background: orange;
+    margin-top: 51px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 47px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px orange;
+    transition: all 1s;
+    border: 2px solid orange;
+}
+.lamp-fivteen{
+    width: 70px;
+    height: 70px;
+    background: blue;
+    margin-top: 78px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 58px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px blue;
+    transition: all 1s;
+    border: 2px solid blue;
+}
+.lamp-sixteen{
+    width: 70px;
+    height: 70px;
+    background: orange;
+    margin-top: 94px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 62px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px orange;
+    transition: all 1s;
+    border: 2px solid orange;
+}
+.lamp-seventeen{
+    width: 70px;
+    height: 70px;
+    background: purple;
+    margin-top: 154px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 72px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px purple;
+    transition: all 1s;
+    border: 2px solid purple;
+}
+.lamp-eighten{
+    width: 70px;
+    height: 70px;
+    background: #07eb07;
+    margin-top: 87px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 73px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px #07eb07;
+    transition: all 1s;
+    border: 2px solid #07eb07;
+}
+.lamp-nineteen{
+    width: 70px;
+    height: 70px;
+    background: yellow;
+    margin-top: 138px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 57px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px yellow;
+    transition: all 1s;
+    border: 2px solid yellow;
+}
+.lamp-twenty{
+    width: 70px;
+    height: 70px;
+    background: red;
+    margin-top: 76px;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 46px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 35px 16px red;
+    transition: all 1s;
+    border: 2px solid red;
+}
+.button{
+    width: 126px;
+    height: 70px;
+    background: #80808069;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 26px;
+    display: inline-block;
+    border-radius: 10px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.button-two{
+    width: 126px;
+    height: 70px;
+    background: #80808069;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 26px;
+    display: inline-block;
+    border-radius: 10px;
+    cursor: pointer;
+    vertical-align: top;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.control-menu{
+    width: 700px;
+    border:2px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.turn-off-on-first-lamp{
+    width: 265px;
+    height: 50px;
+    font-size: 16px;
+    vertical-align: top;
+}
+.turn-off-on-two-lamp{
+    width: 265px;
+    height: 50px;
+    font-size: 16px;
+    vertical-align: top;
+}
+.turn-off-on-tree-lamp{
+    width: 265px;
+    height: 50px;
+    font-size: 16px;
+    vertical-align: top;
+}
+.turn-off-on-for-lamp{
+    width: 265px;
+    height: 50px;
+    font-size: 16px;
+    vertical-align: top;
+}
+.begin{
+    width: 130px;
+    height: 57px;
+    vertical-align: top;
+    font-size: 20px;
+}
